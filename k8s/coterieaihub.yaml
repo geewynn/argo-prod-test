@@ -8,7 +8,7 @@ metadata:
 spec:
   project: production
   source:
-    path: /coterie-app/kustomize
+    path: coterie-app/kustomize
     repoURL: https://github.com/CoterieAI/CoterieAiHub.git
     targetRevision: HEAD
   destination:
